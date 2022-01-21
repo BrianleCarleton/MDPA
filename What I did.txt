@@ -1,0 +1,2 @@
+Changed The length and radius of the circArray to create a elliptical shape.
+Added a third mass Mercury.
